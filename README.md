@@ -1,4 +1,4 @@
-# STREET FOOD WEBSITE.
+# ANITAS KITCHEN WEBSITE.
 This is a restaurant website that talks about Anitas  food. It contains different sections such as the;
 
 1. Home Section
