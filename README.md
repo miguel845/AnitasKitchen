@@ -14,7 +14,7 @@ This is a restaurant website that talks about Anitas  food. It contains differen
 
 ## Demos
  Below is a screenshot preview of this website's  coding;
- ![Alt text](<Screenshot (3).png>)
+ ![Miguel Chombo](<Screenshot (3).png>)
 
  ## Author's Information
  The author of this website is Miguel Chombo, who is a  student at the Moringa School where he is equiped
