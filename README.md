@@ -1,9 +1,9 @@
-# STREET FOOD WEBSITE.
-This is a restaurant website that talks about Anitas food . It contains different sections such as the;
+# ANITAS KITCHEN WEBSITE.
+This is a restaurant website that talks about Anitas  food. It contains different sections such as the;
 
 1. Home Section
 2. Menu Section
-3. Customers satisfaction Section
+3. Customer satisfaction Section
 4. Contact Us Section
 5. More Info Section.
 
@@ -14,7 +14,7 @@ This is a restaurant website that talks about Anitas food . It contains differen
 
 ## Demos
  Below is a screenshot preview of this website's  coding;
- ![Miguel Chombo](<Screenshot (3).png>)
+ ![Alt text](<Screenshot (3).png>)
 
  ## Author's Information
  The author of this website is Miguel Chombo, who is a  student at the Moringa School where he is equiped
